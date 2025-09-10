@@ -4,7 +4,7 @@ Aplicación **full-stack** con **Node.js (Express) + MySQL** y **Vite/React**.
 - **Backend:** `http://localhost:4000`  
 - **Frontend:** `http://localhost:5173`
 
-> Autenticación básica (login) y endpoint protegido (`/api/me`).
+> Autenticación básica (login).
 
 ---
 
