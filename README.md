@@ -265,8 +265,3 @@ ProyectoReto/
 - No subas **`.env`** ni secretos al repositorio.
 - Usa HTTPS y tokens con expiración en producción.
 - Considera **rate limiting** y **helmet** en Express.
-
----
-
-## Licencia
-Este proyecto se distribuye bajo la licencia **MIT**. Puedes agregar un archivo `LICENSE` con el texto correspondiente.
